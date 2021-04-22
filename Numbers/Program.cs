@@ -7,8 +7,8 @@ namespace Numbers
         static void Main(string[] args)
         {
             int a = 8;
-            int b = 24;
-            Console.WriteLine(a + b);
+            int b = 4;
+            Console.WriteLine(a * b);
         }
     }
 }
