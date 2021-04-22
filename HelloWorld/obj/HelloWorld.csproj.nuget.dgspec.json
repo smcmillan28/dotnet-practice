@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smcmi\\Desktop\\dotnet-practice\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\smcmi\\Desktop\\dotnet\\dotnet-practice\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smcmi\\Desktop\\dotnet-practice\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\smcmi\\Desktop\\dotnet\\dotnet-practice\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smcmi\\Desktop\\dotnet-practice\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\smcmi\\Desktop\\dotnet\\dotnet-practice\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\smcmi\\Desktop\\dotnet-practice\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\smcmi\\Desktop\\dotnet\\dotnet-practice\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\smcmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smcmi\\Desktop\\dotnet-practice\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\smcmi\\Desktop\\dotnet\\dotnet-practice\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\smcmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
